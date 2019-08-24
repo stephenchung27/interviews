@@ -105,7 +105,7 @@ Doing mock interviews with your teammate will help you practice whiteboarding. I
 
 ## LeetCode Grind
 
-The reality of technical interviews is that it is a flawed system, dependent on luck. You can get a problem at an interview that you solved the day before and pass. Some problems are unnecessarily difficult unless you've solved them before. But don't be discouraged! The point of this entire guide is to help you develop a "toolkit" of problem-solving methods. Very soon, you will be able to solve more complex problems you don't even know how to approach right now.
+The reality of technical interviews is that it is a flawed system, dependent on luck. You can get a problem at an interview that you solved the day before and pass. Some problems are unnecessarily difficult unless you've solved them before. But don't be discouraged! The point of this entire guide is to help you develop a "toolkit" of problem-solving methods. Very soon, you will be able to solve more complex problems you don't know how to even approach right now.
 
 Unfortunately, this part is less structured than the 4-week sprint. Now, all the daily problems and motivation will have to come from yourself. You will need to identify topics you are struggling with which requires a level of awareness and introspection. Then you have to have the patience to drill yourself on these problems until you're able to solve them without any help within a short time period.
 
@@ -140,6 +140,16 @@ Some people argue around 300 problems are enough to get into Google. There are o
 In the end, it's not about how many problems you do. It's about how effectively you studied and what you did to maximize your chance of passing. That means doing as many problems as you can and deeply understanding the solutions to each one. Your mileage may vary.
 
 [Back to Top](#table-of-contents)
+
+---
+
+## Miscellaneous Tips
+
+- **Do your due diligence and research your company.**
+- Participate in Alvin's Fight Club that occurs every Sunday.
+- Schedule mock behavioral/technical interviews with your career coach. They are extremely effective.
+- Improve your typing speed/accuracy. Most coding challenges are timed and typing speed/accuracy is crucial. Additionally many Big N companies now allow you to use a laptop instead of a whiteboard during interviews.
+- Carry your textbook around and read it during train rides.
 
 ---
 
