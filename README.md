@@ -6,8 +6,9 @@
 3. [Reasoning behind Decisions](#reasoning-behind-decisions)
 4. [4-week Sprint](#4-week-Sprint)
 5. [Leet Code Grind](#leet-code-grind)
-6. [Essential LeetCode Problems](#essential-leetcode-problems)
-7. [Resources](#resources)
+6. [Miscellaneous Tips](#miscellaeneous-tips)
+7. [Essential LeetCode Problems](#essential-leetcode-problems)
+8. [Resources](#resources)
 
 ---
 
