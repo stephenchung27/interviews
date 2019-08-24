@@ -17,7 +17,7 @@ This guide will go over how to best prepare for interviews at Big N companies wh
 
 This guide is meant to prepare you for Big N companies. If you are aiming for smaller start-ups then this might be overkill and it could be wiser to concentrate on something else. Nonetheless, it's always good to overprepare and this will keep you engaged and motivated until you land a job. Additionally, front-end interviews might involve more JavaScript related questions concerning DOM manipulation or React trivia in addition to algorithm questions. Unfortunately, this guide will not cover those topics.
 
-I recommend going through this guide with the same intensity as the bootcamp. The job search can be longer and more stressful than the bootcamp for some people and you lose the help and support of a TA and a curriculum to guide you. 
+I recommend going through this guide with the same intensity as the bootcamp. The job search can be longer and more stressful than the bootcamp for some people and you lose the help and support of a TA and a curriculum to guide you. Keep the momentum going!
 
 [Back to Top](#table-of-contents)
 
@@ -181,6 +181,9 @@ In the end, it's not about how many problems you do. It's about how effectively 
 
 ## Resources
 
+- [The only video channel on Python you need.](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+
+
 ### Must Read
 
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
@@ -192,6 +195,7 @@ In the end, it's not about how many problems you do. It's about how effectively 
 
 - [CareerCup](https://www.careercup.com/)
 - [LeetCode Discussion Forum](https://leetcode.com/discuss/interview-question)
+- Glassdoor
 
 ### Youtube Videos/Channels on Algorithms
 
@@ -213,5 +217,11 @@ In the end, it's not about how many problems you do. It's about how effectively 
 
 #### Forums
 - [Blind Forum](https://www.teamblind.com/)
+
+#### Behavioral Stuff :eyes:
+
+- [Andrew LaCivita](https://www.youtube.com/channel/UCP1UlYJH_QL4m5HVyikcxfQ) - Best behavioral YouTube channel I've seen so far.
+- [Dan Croitor](https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ) - Videos related to behavioral questions for various Big N companies but with a focus on Amazon
+
 
 [Back to Top](#table-of-contents)
