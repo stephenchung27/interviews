@@ -1,13 +1,13 @@
 # Interview Preparation
 
 ## Table of Contents
-1. [Introduction](#Introduction)
-2. [Prerequisites](#Prerequisites)
-3. [Reasoning behind Decisions](#Reasoning\ behind\ Decisions)
-4. [4-week Sprint](#4-week\ Sprint)
-5. [Leet Code Grind](#Leet\ Code\ Grind)
-6. [Essential LeetCode Problems](#Essential\ LeetCode\ Problems)
-7. [Resources](#Resources)
+1. [Introduction](#introduction)
+2. [Prerequisites](#prerequisites)
+3. [Reasoning behind Decisions](#reasoning-behind-decisions)
+4. [4-week Sprint](#4-week-Sprint)
+5. [Leet Code Grind](#leet-code-grind)
+6. [Essential LeetCode Problems](#essential-leetcode-problems)
+7. [Resources](#resources)
 
 ---
 
@@ -19,7 +19,7 @@ This guide is meant to prepare you for Big N companies. If you are aiming for sm
 
 I recommend going through this guide with the same intensity as the bootcamp. The job search can be longer and more stressful than the bootcamp for some people and you lose the help and support of a TA and a curriculum to guide you. 
 
-[Back to Top](#Table\ of\ Contents)
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -30,7 +30,7 @@ I recommend going through this guide with the same intensity as the bootcamp. Th
   [Physical Version](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949)   
   [PDF Version](https://drive.google.com/open?id=15Km7MRDq5yWOt3XE5B2FDdQwMFnqWTtS)
 
-[Back to Top](#Table\ of\ Contents)
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -61,7 +61,7 @@ I chose to write this guide using *Elements of Programming Interviews* instead o
 1. [Technical Interview Performance by Editor/OS/Language](https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language) by TripleByte
 2. [PEP 3107 - Function Annotations](https://www.python.org/dev/peps/pep-3107/)
 
-[Back to Top](#Table\ of\ Contents)
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -99,7 +99,7 @@ Doing mock interviews with your teammate will help you practice whiteboarding. I
 
 - Spend time learning about a data structure before jumping into the problems.
 
-[Back to Top](#Table\ of\ Contents)
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -139,7 +139,7 @@ Some people argue around 300 problems are enough to get into Google. There are o
 
 In the end, it's not about how many problems you do. It's about how effectively you studied and what you did to maximize your chance of passing. That means doing as many problems as you can and deeply understanding the solutions to each one. Your mileage may vary.
 
-[Back to Top](#Table\ of\ Contents)
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -175,7 +175,7 @@ In the end, it's not about how many problems you do. It's about how effectively 
 
 \* Asterisks signify problems that have solutions that are not worth spending the time figuring out yourself.
 
-[Back to Top](#Table\ of\ Contents)
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -213,3 +213,5 @@ In the end, it's not about how many problems you do. It's about how effectively 
 
 #### Forums
 - [Blind Forum](https://www.teamblind.com/)
+
+[Back to Top](#table-of-contents)
