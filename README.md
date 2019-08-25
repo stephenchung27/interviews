@@ -134,6 +134,8 @@ Unfortunately, this part is less structured than the 4-week sprint. Now, all the
 
 - For harder problems, start with a brute force solution.
 
+- Sign up for LeetCode Premium and use the Explore cards to study for the company you are interviewing for.
+
 ### When would I know I'm ready? How many problems should I do?
 
 Some people argue around 300 problems are enough to get into Google. There are others who argue 500+ is needed to have a decent chance to get in. There have also been some people who have gotten offers at Google without doing any LeetCode problems and relying solely on what they learned from their textbook. 
@@ -151,6 +153,8 @@ In the end, it's not about how many problems you do. It's about how effectively 
 - Schedule mock behavioral/technical interviews with your career coach. They are extremely effective.
 - Improve your typing speed/accuracy. Most coding challenges are timed and typing speed/accuracy is crucial. Additionally many Big N companies now allow you to use a laptop instead of a whiteboard during interviews.
 - Carry your textbook around and read it during train rides.
+
+[Back to Top](#table-of-contents)
 
 ---
 
