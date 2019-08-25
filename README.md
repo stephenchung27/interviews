@@ -81,23 +81,16 @@ Doing mock interviews with your teammate will help you practice whiteboarding. I
 **Follow all of the guidelines below:**
 
 - Do the problems marked with a number with your team. The ones marked with an X can be done alone or together. Try to do all the problems for each day. If you can't, come back to the problem when you finish a problem set for the day.
-
 - Designate two people to solve a problem and one person to act as an interviewer for each problem. 
-
 - Only attempt the problem for 30 minutes. If you feel like are close to a solution, then take extra time to finish it.
-
 - Your solution must include the time complexity of the algorithm.
-
 - Afterwards review the solution until you can understand it. Practice explaining it to your team mates if they are having trouble.
-
 - Do **Problem Blitzs**. These are short sessions where you spend at most 5 minutes visualizing a solution in your head before getting together and reviewing the solution. You would try to get as many problems into an hour period. The idea of a *blitz* is based on the [Pareto Principle](https://www.briantracy.com/blog/personal-success/how-to-use-the-80-20-rule-pareto-principle/) or the 80/20 rule for short. You can pull these questions from any resource (LeetCode, Cracking the Coding Interview, CareerCup).
 
 **Additional things you can do:**
 
 - Write down short notes for each problem. This will help you internalize what you've learned.
-
 - Keep track of whether or not you did or didn't get the solution. Come back to the problem later on to review it.
-
 - Spend time learning about a data structure before jumping into the problems.
 
 [Back to Top](#table-of-contents)
@@ -115,25 +108,17 @@ Unfortunately, this part is less structured than the 4-week sprint. Now, all the
 **When solving problems, abide by these rules:**
 
 - Only attempt the problem for a maximum of 30 minutes.
-
 - Use Youtube videos to help you get a better understanding of problems. 
-
 - Keep a ratio of 20% Easy, 60% Medium, 20% Hard. (It'll be rough in the beginning.)
-
 - Aim for at least 5 problems a day. 
-
 - Read multiple solutions in the discussions. Sometimes a solution can "neater", more novel, more space efficient as opposed to time efficient, or even better objectively. You want to be exposed to as many possible solutions as you can.
-
 - **Come back to a problem you had trouble with after some time and review it.** See if you can solve it again, but without refering to the solution.
-
 - Continue whiteboarding with your former teammates or friends.
 
 **Additional things you can do:**
 
 - Verbalize how you plan to solve a problem, and the advantages and drawbacks of your solution.
-
 - For harder problems, start with a brute force solution.
-
 - Sign up for LeetCode Premium and use the Explore cards to study for the company you are interviewing for.
 
 ### When would I know I'm ready? How many problems should I do?
@@ -161,31 +146,18 @@ In the end, it's not about how many problems you do. It's about how effectively 
 ## Essential LeetCode Problems
 
 - LeetCode Premium problems for the company you are interviewing for
-
 - [Blind Curated List of 75 Questions](https://leetcode.com/list/xoqag3yj/)
-
 - [Best Practice Questions from Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/best-practice-questions/)
-
 - [General approach to backtracking questions](https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning))
-
 - Best Time to Buy and Sell Stock [I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/), [II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/), [III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
-
 - Word Break [I](https://leetcode.com/problems/word-break/), [II](https://leetcode.com/problems/word-break-ii/)
-
 - [LRU Cache](https://leetcode.com/problems/lru-cache/)
-
 - [LFU Cache](https://leetcode.com/problems/lfu-cache/)
-
 - [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-
 - [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
-
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)*
-
 - [Gray Code](https://leetcode.com/problems/gray-code/)*
-
 - [Next Permutation](https://leetcode.com/problems/next-permutation/)*
-
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)*
 
 \* Asterisks signify problems that have solutions that are not worth spending the time figuring out yourself.
