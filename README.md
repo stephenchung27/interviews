@@ -14,11 +14,11 @@
 
 ## Introduction
 
-This guide will go over how to best prepare for interviews at Big N companies while optimizing your time. All the information included in this guide is an aggregate of my personal research and various tips I received from current Big N employees and how they prepared for their interviews.
+This guide will go over how to best prepare for interviews at Big N companies while optimizing your time. All the information included in this guide is an aggregate of my personal research and various tips I received from current Big N employees on how they prepared for their interviews.
 
-This guide is meant to prepare you for Big N companies. If you are aiming for smaller start-ups then this might be overkill and it could be wiser to concentrate on something else. Nonetheless, it's always good to overprepare and this will keep you engaged and motivated until you land a job. Additionally, front-end interviews might involve more JavaScript related questions concerning DOM manipulation or React trivia in addition to algorithm questions. Unfortunately, this guide will not cover those topics.
+This guide is meant to prepare you specifically for Big N companies. If you are aiming for smaller start-ups, then this might be overkill and it could be wiser to concentrate on something else. Nonetheless, it's always good to overprepare and this will keep you engaged and motivated until you land a job. Additionally, front-end interviews might involve more JavaScript-related questions concerning DOM manipulation or React trivia in addition to algorithm questions. Unfortunately, this guide will not cover those topics.
 
-I recommend going through this guide with the same intensity as the bootcamp. The job search can be longer and more stressful than the bootcamp for some people and you lose the help and support of a TA and a curriculum to guide you. Keep the momentum going!
+I recommend going through this guide with the same intensity as the bootcamp. The job search can be longer and more stressful than the bootcamp for some people, and you lose the help and support of a TA and a curriculum to guide you. Keep the momentum going!
 
 [Back to Top](#table-of-contents)
 
@@ -42,8 +42,8 @@ I recommend going through this guide with the same intensity as the bootcamp. Th
 Python offers many benefits over the languages that we learn at App Academy:
 
 - It's statistically proven to be the most successful language for technical interviews<sup>1</sup>.
-- Its syntax is very close to Ruby so the transition is relatively easy.
-- Its extremely quick to type or write on the whiteboard (arguably the fastest).
+- The syntax is very close to Ruby so the transition is relatively easy.
+- It's extremely quick to type or write on the whiteboard (arguably the fastest).
 - There are built-in data structures that help simplify many problems (heaps, priority queues, ordered maps, etc.).
 - It uses consistent APIs that operate on different data structures (E.g. `len()`, `for ... in ...` and slicing notation on sequences (strings/lists/tuples))
 - Due to the structure of Python code blocks, it forces you to be more organized and the code is inherently more readable. 
@@ -55,9 +55,9 @@ Python offers many benefits over the languages that we learn at App Academy:
 I chose to write this guide using *Elements of Programming Interviews* instead of *Cracking the Coding Interview* for several reasons:
 
 - It provides solutions in Python.
-- The explanations are more technical, which will train you to better understand verbal explanations better and to speak in a more technical manner.
-- They have a honors section which contain common questions asked at the Big N with in-depth solutions.
-- It's what I used and it's worked for countless other people.
+- The explanations are more technical, which will train you to better understand verbal explanations and to speak in a more technical manner.
+- They have an honors section which contain common questions asked at Big N companies with in-depth solutions.
+- It's what I used and has worked for countless other people.
 
 1. [Technical Interview Performance by Editor/OS/Language](https://triplebyte.com/blog/technical-interview-performance-by-editor-os-language) by TripleByte
 2. [PEP 3107 - Function Annotations](https://www.python.org/dev/peps/pep-3107/)
@@ -66,26 +66,26 @@ I chose to write this guide using *Elements of Programming Interviews* instead o
 
 ---
 
-## 4-week Sprint
+## 4-Week Sprint
 
-This is a four week long, Monday to Friday schedule that will give you a good foundation on algorithms. This will give you the confidence to jump into problems on LeetCode as they can be daunting when first starting off. This alone will not prepare you for the Big N companies, although it is adequate for smaller start-ups. 
+This is a four week long, Monday to Friday schedule that will give you a good foundation on algorithms. This sprint will give you the confidence to jump into problems on LeetCode, as they can be daunting when first starting off. This alone will not prepare you for the Big N companies, although it is adequate for smaller start-ups. 
 
 [Link to schedule on Google Sheets]()
 
-You will need a team of 3 including yourself. This is so that you can keep each other accountable. You should create an incentive for yourselves to come into the office (E.g. Late/absent persons must owe their other team members lunch/dinner). 
+You will need a team of 3 including yourself. This is so that you can keep each other accountable. You should create an incentive for yourselves to come into the office (e.g. late/absent persons must owe their other team members lunch/dinner). 
 
 **Choose your teammates wisely!** I recommend picking teammates you believe are on the same level or higher.
 
-Doing mock interviews with your teammate will help you practice whiteboarding. It will also give you an insight on what an interviewer is thinking when a candidate is struggling. Try to keep it as close to the real experience as you can.
+Doing mock interviews with your teammates will help you practice whiteboarding. It will also give you insight on what an interviewer is thinking when a candidate is struggling. Try to keep it as close to the real experience as you can.
 
 **Follow all of the guidelines below:**
 
 - Do the problems marked with a number with your team. The ones marked with an X can be done alone or together. Try to do all the problems for each day. If you can't, come back to the problem when you finish a problem set for the day.
 - Designate two people to solve a problem and one person to act as an interviewer for each problem. 
-- Only attempt the problem for 30 minutes. If you feel like are close to a solution, then take extra time to finish it.
+- Only attempt the problem for 30 minutes. If you feel like you are close to a solution, take extra time to finish it.
 - Your solution must include the time complexity of the algorithm.
-- Afterwards review the solution until you can understand it. Practice explaining it to your team mates if they are having trouble.
-- Do **Problem Blitzs**. These are short sessions where you spend at most 5 minutes visualizing a solution in your head before getting together and reviewing the solution. You would try to get as many problems into an hour period. The idea of a *blitz* is based on the [Pareto Principle](https://www.briantracy.com/blog/personal-success/how-to-use-the-80-20-rule-pareto-principle/) or the 80/20 rule for short. You can pull these questions from any resource (LeetCode, Cracking the Coding Interview, CareerCup).
+- Afterwards, review the solution until you can understand it. Practice explaining it to your teammates if they are having trouble.
+- Do **Problem Blitzes**. These are short sessions in which you spend at most 5 minutes visualizing a solution in your head before getting together and reviewing the solution. The goal is to fit as many problems as you can into an hour period. The idea of a *blitz* is based on the [Pareto Principle](https://www.briantracy.com/blog/personal-success/how-to-use-the-80-20-rule-pareto-principle/), or the 80/20 rule for short. You can pull these questions from any resource (LeetCode, Cracking the Coding Interview, CareerCup).
 
 **Additional things you can do:**
 
@@ -99,9 +99,9 @@ Doing mock interviews with your teammate will help you practice whiteboarding. I
 
 ## LeetCode Grind
 
-The reality of technical interviews is that it is a flawed system, dependent on luck. You can get a problem at an interview that you solved the day before and pass. Some problems are unnecessarily difficult unless you've solved them before. But don't be discouraged! The point of this entire guide is to help you develop a "toolkit" of problem-solving methods. Very soon, you will be able to solve more complex problems you don't know how to even approach right now.
+The reality of technical interviews is that it is a flawed system, dependent on luck. You can get a problem at an interview that you solved the day before and pass. Some problems are unnecessarily difficult unless you've solved them before. But don't be discouraged! The point of this entire guide is to help you develop a "toolkit" of problem-solving methods. Very soon, you will be able to solve complex problems that you don't even know how to approach right now.
 
-Unfortunately, this part is less structured than the 4-week sprint. Now, all the daily problems and motivation will have to come from yourself. You will need to identify topics you are struggling with which requires a level of awareness and introspection. Then you have to have the patience to drill yourself on these problems until you're able to solve them without any help within a short time period.
+Unfortunately, this part is less structured than the 4-week sprint. Now, all the daily problems and motivation will have to come from yourself. You will need to identify topics you are struggling with, which requires a certain level of awareness and introspection. Then, you have to have the patience to drill yourself on these problems until you're able to solve them, without any help, within a short time period.
 
 [LeetCode Grinding Guide](https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/) 
 
@@ -111,8 +111,8 @@ Unfortunately, this part is less structured than the 4-week sprint. Now, all the
 - Use Youtube videos to help you get a better understanding of problems. 
 - Keep a ratio of 20% Easy, 60% Medium, 20% Hard. (It'll be rough in the beginning.)
 - Aim for at least 5 problems a day. 
-- Read multiple solutions in the discussions. Sometimes a solution can "neater", more novel, more space efficient as opposed to time efficient, or even better objectively. You want to be exposed to as many possible solutions as you can.
-- **Come back to a problem you had trouble with after some time and review it.** See if you can solve it again, but without refering to the solution.
+- Read multiple solutions in the discussions. Sometimes a solution can be "neater", more novel, more space efficient as opposed to time efficient, or even better objectively. You want to be exposed to as many possible solutions as you can.
+- **Come back to the problems you had trouble with after some time and review them.** See if you can solve them again, but without refering to the solution.
 - Continue whiteboarding with your former teammates or friends.
 
 **Additional things you can do:**
@@ -121,11 +121,11 @@ Unfortunately, this part is less structured than the 4-week sprint. Now, all the
 - For harder problems, start with a brute force solution.
 - Sign up for LeetCode Premium and use the Explore cards to study for the company you are interviewing for.
 
-### When would I know I'm ready? How many problems should I do?
+### When will I know I'm ready? How many problems should I do?
 
 Some people argue around 300 problems are enough to get into Google. There are others who argue 500+ is needed to have a decent chance to get in. There have also been some people who have gotten offers at Google without doing any LeetCode problems and relying solely on what they learned from their textbook. 
 
-In the end, it's not about how many problems you do. It's about how effectively you studied and what you did to maximize your chance of passing. That means doing as many problems as you can and deeply understanding the solutions to each one. Your mileage may vary.
+In the end, it's not about how many problems you do. It's about how effectively you studied and what you did to maximize your chance of passing. That means doing as many problems as you can while deeply understanding the solutions to each one. Your mileage may vary.
 
 [Back to Top](#table-of-contents)
 
@@ -136,8 +136,8 @@ In the end, it's not about how many problems you do. It's about how effectively 
 - **Do your due diligence and research your company.**
 - Participate in Alvin's Fight Club that occurs every Sunday.
 - Schedule mock behavioral/technical interviews with your career coach. They are extremely effective.
-- Improve your typing speed/accuracy. Most coding challenges are timed and typing speed/accuracy is crucial. Additionally many Big N companies now allow you to use a laptop instead of a whiteboard during interviews.
-- Carry your textbook around and read it during train rides.
+- Improve your typing speed/accuracy. Most coding challenges are timed and typing speed/accuracy is crucial. Additionally, many Big N companies now allow you to use a laptop instead of a whiteboard during interviews.
+- Carry your textbook around and read it during your commute.
 
 [Back to Top](#table-of-contents)
 
