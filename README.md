@@ -72,7 +72,7 @@ I chose to write this guide using *Elements of Programming Interviews* instead o
 
 This is a four week long, Monday to Friday schedule that will give you a good foundation on algorithms. This sprint will give you the confidence to jump into problems on LeetCode, as they can be daunting when first starting off. This alone will not prepare you for the Big N companies, although it is adequate for smaller start-ups. 
 
-[Link to schedule on Google Sheets]()
+[Link to schedule on Google Sheets](https://docs.google.com/spreadsheets/d/1NeRp52zb8jryX3OTcx6-4DEl8YHqJCvVG63NSLlTwL0/edit?usp=sharing)
 
 You will need a team of 3 including yourself. This is so that you can keep each other accountable. You should create an incentive for yourselves to come into the office (e.g. late/absent persons must owe their other team members lunch/dinner). 
 
