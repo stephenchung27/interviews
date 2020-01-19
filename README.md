@@ -76,9 +76,13 @@ This is a four week long, Monday to Friday schedule that will give you a good fo
 
 You will need a team of 3 including yourself. This is so that you can keep each other accountable. You should create an incentive for yourselves to come into the office (e.g. late/absent persons must owe their other team members lunch/dinner). 
 
-**Choose your teammates wisely!** I recommend picking teammates you believe are on the same level or higher.
+**Choose your teammates wisely!** 
+
+I recommend picking teammates you believe are on the same level or higher.
 
 Doing mock interviews with your teammates will help you practice whiteboarding. It will also give you insight on what an interviewer is thinking when a candidate is struggling. Try to keep it as close to the real experience as you can.
+
+I also recommend not choosing your friends as teammates. Along the same vein, and this will sound cynical, if you ever feel like your teammates are dragging you down, be quick to drop them and study on your own. 
 
 **Important note**
 
@@ -91,9 +95,9 @@ First, take some time to think about what an interviewer looks for in a candidat
 - Can this person communicate his thought process well?
 - Would I enjoy working with this person?
 
-Do not disregard any of these four! A candidate can fail if they lack in any one of these four aspects. Keep these four things in mind while whiteboarding or doing mock interviews.
+Do not disregard any of these four! A candidate can fail if they lack in even one. Keep these four things in mind while whiteboarding or doing mock interviews.
 
-Think about why an interviewer is asking you a question. What skills or qualities are they looking for? What red flags are they filtering for in your answer? If you can correctly identify the "why", you will have a much easier time coming up with an answer.
+Think about why an interviewer is asking you a question. What skills or qualities are they looking for? What red flags are they filtering for? If you can correctly identify the "why", you will have a much easier time coming up with an answer.
 
 **Follow all of the guidelines below:**
 
@@ -116,7 +120,7 @@ Think about why an interviewer is asking you a question. What skills or qualitie
 
 ## LeetCode Grind
 
-The reality of technical interviews is that it is a flawed system, dependent on luck. You can get a problem at an interview that you solved the day before and pass. Some problems are unnecessarily difficult unless you've solved them before. But don't be discouraged! The point of this entire guide is to help you develop a "tool kit" of problem-solving methods. Very soon, you will be able to solve complex problems that you don't even know how to approach right now.
+The reality of technical interviews is that it is a flawed system that's dependent on luck. You can get a problem at an interview that you solved the day before and pass. Some problems are unnecessarily difficult unless you've solved them at least once. But don't be discouraged! The point of this entire guide is to help you develop a "tool kit" of problem-solving methods. Very soon, you will be able to solve complex problems that you don't even know how to approach right now.
 
 Unfortunately, this part is less structured than the 4-week sprint. Now, all the daily problems and motivation will have to come from yourself. You will need to identify topics you are struggling with, which requires a certain level of awareness and introspection. Then, you have to have the patience to drill yourself on these problems until you're able to solve them, without any help, within a short time period.
 
@@ -135,14 +139,14 @@ Unfortunately, this part is less structured than the 4-week sprint. Now, all the
 **Additional things you can do:**
 
 - Verbalize how you plan to solve a problem, and the advantages and drawbacks of your solution.
-- For harder problems, start with a brute force solution.
+- For harder problems, start with a brute force solution. Then work on optimizing it.
 - Sign up for LeetCode Premium and use the Explore cards to study for the company you are interviewing for.
 
 ### When will I know I'm ready? How many problems should I do?
 
 Some people argue around 300 problems are enough to get into Google. There are others who argue 500+ is needed to have a decent chance to get in. There have also been some people who have gotten offers at Google without doing any LeetCode problems and relying solely on what they learned from their textbook. 
 
-In the end, it's not about how many problems you do. It's about how effectively you studied and what you did to maximize your chance of passing. That means doing as many problems as you can while deeply understanding the solutions to each one. Your mileage may vary.
+In the end, it's not about how many problems you do. It's about how effectively you studied and what you did to maximize your chance of passing. That means doing as many problems as you can while deeply understanding the solutions to each one. 
 
 [Back to Top](#table-of-contents)
 
@@ -151,13 +155,13 @@ In the end, it's not about how many problems you do. It's about how effectively 
 ## Miscellaneous Tips
 
 - **Do your due diligence and research your company.** 
-    - A lot of companies have their own list of problems that they pull from (Bloomberg). A company-specific list of problems is available through LeetCode premium. However, keep in mind this does not guarantee that the problems they ask during the interview will come from this list. The list serves only as a suggestion, and they are not required to ask from that list. 
-    - Some companies have very specific traits that they look for during the behavioral part (Amazon and their Leadership Principles). They are usually available online. Molding your answers to reflect these traits is advantageous and sometimes even obligatory since every candidate would be dointhe same. 
-- Teach new students and practice explaining concepts. You might even learn a few things from them. 
-- Apply and interview everywhere, even to non-Big N companies. Use the interviews as practice and it will improve your confidence and help you become less anxious in an interviewing environment.
+    - A lot of companies have their own list of problems that they pull from (E.g. Bloomberg). Company-specific lists of problems are available through LeetCode premium. Keep in mind this does not guarantee that the problems they ask during the interview will come from this list. The list serves only as a suggestion, and they are not required to ask from that list. 
+    - Some companies have very specific traits that they look for during the behavioral part (E.g. Amazon and their Leadership Principles). They are usually available online. Molding your answers to reflect these traits is advantageous and oftentimes obligatory since every candidate would be doing the same. 
+- Teach new students and practice explaining concepts. This is also a good way to boost your confidence. You might even learn a few things from them. 
+- Apply and interview everywhere, even to non-Big N companies. Use the interviews as practice and it will help you become less anxious at the interviews that matter.
 - Participate in Alvin's Fight Club that occurs every Sunday.
-- Schedule mock behavioral/technical interviews with your career coach. They are extremely effective as they will go harder on you than your friends.
-- Improve your typing speed/accuracy. Most coding challenges are timed and typing speed/accuracy is crucial. Additionally, many Big N companies now allow you to use a laptop instead of a whiteboard so this can help shave additional time.
+- Schedule mock behavioral/technical interviews with your career coach. They are very effective as they will go harder on you than your friends.
+- Improve your typing speed/accuracy. Most coding challenges are timed and typing speed/accuracy is crucial. Additionally, many Big N companies now allow you to use a laptop instead of a whiteboard so this can help shave additional time during a problem.
 - Carry your textbook around and read it during your commute. Live and breathe algorithms!
 - Be confident, in your skills and your personality. App Academy does a better job at filtering people than you think! 
 
@@ -182,7 +186,7 @@ In the end, it's not about how many problems you do. It's about how effectively 
 - [Next Permutation](https://leetcode.com/problems/next-permutation/)*
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)*
 
-\* Asterisks signify problems that have solutions that are not worth spending the time figuring out yourself. Take the time and try solving thme yourself but don't dwell on them.
+\* Asterisks signify problems that have solutions that are not worth spending the time figuring out yourself. Take the time and try solving them but don't dwell on them.
 
 [Back to Top](#table-of-contents)
 
