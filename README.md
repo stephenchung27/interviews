@@ -35,7 +35,7 @@ I recommend going through this guide with the same intensity as the bootcamp. Fo
 
 ---
 
-## Reasoning Behind Decisions
+## Explanations on Decisions
 
 ### Why Python?
 
