@@ -196,7 +196,6 @@ In the end, it's not about how many problems you do. It's about how effectively 
 
 - [The only video channel on Python you need.](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
-
 ### Must Read
 
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
@@ -206,6 +205,8 @@ In the end, it's not about how many problems you do. It's about how effectively 
 
 ### Question Banks
 
+- [Interactive Coding Challenges within Jupyter Notebooks](https://github.com/donnemartin/interactive-coding-challenges)
+- [Anki Cards for Coding Problems](https://github.com/donnemartin/interactive-coding-challenges/blob/master/anki_cards/Coding.apkg)
 - [CareerCup](https://www.careercup.com/)
 - [LeetCode Discussion Forum](https://leetcode.com/discuss/interview-question)
 - Glassdoor
