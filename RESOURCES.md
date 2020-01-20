@@ -1,4 +1,4 @@
-# Resources
+# Resources Unrelated to Algorithms
 
 - [Engineering Blogs of Big Tech Companies](https://github.com/kilimchoi/engineering-blogs)
 
