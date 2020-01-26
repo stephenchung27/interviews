@@ -159,7 +159,7 @@ In the end, it's not about how many problems you do. It's about how effectively 
     - Some companies have very specific traits that they look for during the behavioral part (E.g. Amazon and their Leadership Principles). They are usually available online. Molding your answers to reflect these traits is advantageous and oftentimes obligatory since every candidate would be doing the same. 
 - Teach new students and practice explaining concepts. This is also a good way to boost your confidence. You might even learn a few things from them. 
 - Apply and interview everywhere, even to non-Big N companies. Use the interviews as practice and it will help you become less anxious at the interviews that matter.
-- Participate in Alvin's Fight Club that occurs every Sunday.
+- ~~Participate in Alvin's Fight Club that occurs every Sunday.~~
 - Schedule mock behavioral/technical interviews with your career coach. They are very effective as they will go harder on you than your friends.
 - Improve your typing speed/accuracy. Most coding challenges are timed and typing speed/accuracy is crucial. Additionally, many Big N companies now allow you to use a laptop instead of a whiteboard so this can help shave additional time during a problem.
 - Carry your textbook around and read it during your commute. Live and breathe algorithms!
