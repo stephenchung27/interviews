@@ -155,6 +155,8 @@ Think about whether you truly understand how a data structure works:
 
 Make sure to hit all the topics equally, at least initially, before doing less problems on topics you're comfortable with. You can get good at a certain data structure, unknowingly get drawn into solving problems only involving that data structure, and justify doing them because they're a Hard or a Medium. It's certainly not the worst thing you can do, but you won't be maximizing your time. And trust me, doing an endless number of heap problems won't help you.
 
+Once you find a topic you are struggling with, search for problems on that topic on LeetCode and spam them. You will eventually be able to catch the patterns, at which point you can move on.
+
 ### When will I know I'm ready? How many problems should I do?
 
 Some people argue around 300 problems are enough to get into Google. There are others who argue 500+ is needed to have a decent chance to get in. There have also been some people who have gotten offers at Google without doing any LeetCode problems and relying solely on what they learned from their textbook. 
