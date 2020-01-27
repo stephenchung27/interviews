@@ -142,6 +142,19 @@ Unfortunately, this part is less structured than the 4-week sprint. Now, all the
 - For harder problems, start with a brute force solution. Then work on optimizing it.
 - Sign up for LeetCode Premium and use the Explore cards to study for the company you are interviewing for.
 
+### I'm having trouble with a topic, what should I do?
+
+This might seem very obvious, but it's as easy as doing more of those problems. The hard part is figuring out what topics you are bad at. I can't stress enough how important it is to think critically about what you're doing each day. It's very easy to get into a daily ritual and spend days or even weeks not fully maximizing your time. Studying algorithms has diminishing returns and you'll be surprised how quickly you'll stagnate and not even realize it.
+
+So keep track of how well you did on a problem and how fast you figured it out. Keep a spreadsheet. 
+
+Think about whether you truly understand how a data structure works:
+  - Do you know how to write one on your own? (e.g. heaps)
+  - Do you know why it has the time complexities it has for its functions? (e.g. hash tables)
+  - Do you know the benefits of using it as opposed to another data structure? (e.g. set versus array)
+
+Make sure to hit all the topics equally, at least initially, before doing less problems on topics you're comfortable with. You can get good at a certain data structure, unknowingly get drawn into solving problems only involving that data structure, and justify doing them because they're a Hard or a Medium. It's certainly not the worst thing you can do, but you won't be maximizing your time. And trust me, doing an endless number of heap problems won't help you.
+
 ### When will I know I'm ready? How many problems should I do?
 
 Some people argue around 300 problems are enough to get into Google. There are others who argue 500+ is needed to have a decent chance to get in. There have also been some people who have gotten offers at Google without doing any LeetCode problems and relying solely on what they learned from their textbook. 
